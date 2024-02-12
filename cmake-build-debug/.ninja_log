@@ -1,0 +1,16 @@
+# ninja log v5
+12	913	1707710328090509487	CMakeFiles/nowmillion.dir/main.cpp.o	4d3a546f9a4c8175
+15	918	1707710328094509548	CMakeFiles/nowmillion.dir/expect/call/arguments.cpp.o	dfab4f306449d1cd
+918	944	1707710328122509965	CMakeFiles/nowmillion.dir/expect/call/investigation/flags/operation/tempus.cpp.o	79182ac6adb36891
+914	1239	1707710328418514375	CMakeFiles/nowmillion.dir/expect/call/investigation/arguments/carps.cpp.o	c9ca8d218d427966
+1239	1259	1707710328438514673	CMakeFiles/nowmillion.dir/expect/call/investigation/flags/key/token/link.cpp.o	b8281547bd7a9158
+944	1373	1707710328550516341	CMakeFiles/nowmillion.dir/expect/call/investigation/flags/revelry/brazil.cpp.o	f6fba03a99737400
+1374	1425	1707710328602517116	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/changes/climatics/cold.cpp.o	57e2e0ab47e51fce
+15	1510	1707710328690518427	CMakeFiles/nowmillion.dir/expect/call/investigation/carnival.cpp.o	4c0b77de9fc876e8
+1259	1645	1707710328822520394	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/happer/swift.cpp.o	729aceded1abcf0c
+54	94	1707710704436116537	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/vaccination/campaign/analysis.cpp.o	646d0e457b42ff77
+57	95	1707710704436116537	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/business/rain/start.cpp.o	63d95147c2e48d7c
+57	95	1707710704436116537	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/business/pointers/region/run.cpp.o	6a9512f2cfcb8458
+94	416	1707710704756121304	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/business/evolution/color/list.cpp.o	f5de4a6e2d8f3260
+24	472	1707710834430053280	CMakeFiles/nowmillion.dir/expect/call/investigation/exports/happer/swift.cpp.o	729aceded1abcf0c
+472	1237	1707710835194064663	nowmillion	e089e7797198c189
